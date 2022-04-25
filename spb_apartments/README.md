@@ -25,4 +25,3 @@
 
 ## Используемые библиотеки
 *pandas, seaborn, matplotlib*
-
